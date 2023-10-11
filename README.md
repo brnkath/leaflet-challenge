@@ -10,6 +10,7 @@ Contributor: Brian Kath
 - Sub-folders
   - images
     - earthquake-map.png
+    - map-popup.png
   - static
     - css
       - style.css
